@@ -1,0 +1,20 @@
+
+.quoteBox{
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, .3);
+  border-radius: 20px;
+  display: inline-block;
+  padding: 30px;
+  text-align: center;
+  width: 80%;
+  background-color: #ffffff;
+}
+.quoteBox h3{
+  text-align: right;
+}
+
+.app {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
